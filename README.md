@@ -28,4 +28,3 @@ El objetivo es transformar datos financieros históricos en una herramienta de d
 El modelo logra una capacidad predictiva sólida, permitiendo identificar patrones de riesgo de manera eficiente y escalable.
 
 ---
-*Desarrollado por: [Tu Nombre]*
